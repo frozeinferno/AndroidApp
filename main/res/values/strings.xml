@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DrawingApp2</string>
+    <string name="brush">BRUSH</string>
+    <string name="erase">ERASE</string>
+    <string name="back">BACK</string>
+    <string name="paint">PAINT</string>
+    <string name="describePaint">BY PRESSING PAINT, THE ERASER AUTOMATICALLY TURNS OFF!</string>
+    <string name="describeErase">IF YOU PRESS ERASE, YOU WILL SWITCH TO ERASER MODE!</string>
+    <string name="describeShake">TO COMPLETELY WIPE SCREEN, SHAKE YOUR PHONE!</string>
+    <string name="describeColours">HERE YOU CAN CHOOSE COLOURS BY PRESSING ON THEM</string>
+    <string name="menu">BACK TO MAIN MENU</string>
+    <string name="startButton">START DRAWING!</string>
+    <string name="helpButton">NEED HELP?</string>
+    <string name="version">version 1.0.0</string>
+    <string name="title">SHAKE N\' DRAW</string>
+</resources>
+
